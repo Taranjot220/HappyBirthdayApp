@@ -3,6 +3,13 @@ Birthday Card Sample App
 
 Sample app that displays a birthday card. Used in the Udacity Android for Beginners course.
 
+Features
+--------
+This Birthday Card app includes:-
+1. A single screen application 
+2. Greeting card- Wishing 'Happy Birthday Savi! from Taranjot'
+3. Included a Birthday Image in the background
+
 Pre-requisites
 --------------
 
@@ -30,6 +37,11 @@ Image
 
 The image in the app's drawable folder is licensed under Creative Commons Attribution 3.0
 (http://creativecommons.org/licenses/by/3.0/).
+
+Screenshot
+----------
+![Alt text](https://github.com/Taranjot220/HappyBirthdayApp/tree/master/app/src/main/res/drawable/screen1.png?raw=true "Screenshot 1")
+![Alt text](https://github.com/Taranjot220/HappyBirthdayApp/tree/master/app/src/main/res/drawable/screen2.png?raw=true "Screenshot 2")
 
 License
 -------
