@@ -12,18 +12,22 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+                                                                             <!-- Declared Relative Layout -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+                                                                <!-- creates an Image View -->
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/androidparty" />
+        android:src="@drawable/androidparty" />                  <!-- included image androidparty -->
 
+                                                                <!-- creates a Text View -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -33,6 +37,7 @@
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
+                                                                 <!-- creates a Text View -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,4 +49,4 @@
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
-</RelativeLayout>
+</RelativeLayout>                                     <!-- End Of Relative Layout -->
