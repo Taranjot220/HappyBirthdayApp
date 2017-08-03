@@ -40,8 +40,9 @@ The image in the app's drawable folder is licensed under Creative Commons Attrib
 
 Screenshot
 ----------
-
-![Screenshot of the App](https://github.com/Taranjot220/HappyBirthdayApp/tree/master/app/src/main/res/drawable/screen2.png?raw=true "Screenshot")
+<p>
+<img src="https://github.com/Taranjot220/HappyBirthdayApp/tree/master/app/src/main/res/drawable/screen2.png" height="40" width="40"/>
+</p>
 
 License
 -------
