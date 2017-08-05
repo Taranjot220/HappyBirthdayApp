@@ -44,6 +44,10 @@ Screenshot
 ![ScreenShot](https://raw.githubusercontent.com/Taranjot220/HappyBirthdayApp/master/app/src/main/res/drawable/screen2.png) 
 
 
+Class Diagram
+-------------
+![ScreenShot](https://raw.githubusercontent.com/Taranjot220/HappyBirthdayApp/master/app/src/main/res/drawable/ClassDiagram1.png)
+
 License
 -------
 
