@@ -41,7 +41,7 @@ The image in the app's drawable folder is licensed under Creative Commons Attrib
 Screenshot
 ----------
 
-![ScreenShot](../drawable/screen2.png) 
+![ScreenShot](screen2.png) 
 
 
 License
