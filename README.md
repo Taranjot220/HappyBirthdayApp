@@ -48,6 +48,10 @@ Class Diagram
 -------------
 ![ScreenShot](https://raw.githubusercontent.com/Taranjot220/HappyBirthdayApp/master/app/src/main/res/drawable/ClassDiagram1.png)
 
+Architecture Diagram
+--------------------
+![ScreenShot](https://raw.githubusercontent.com/Taranjot220/HappyBirthdayApp/master/app/src/main/res/drawable/ArchitectureDiagram.png)
+
 License
 -------
 
